@@ -19,12 +19,12 @@ Este projeto foi desenvolvido como parte de um desafio do bootcamp da [DIO](http
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/GuilhermeDSD19/GeradorDeCarteirasBTC
     ```
    
 2. Navegue até o diretório do projeto:
     ```bash
-    cd SEU_REPOSITORIO
+    cd GeradorDeCarteirasBTC
     ```
    
 3. Instale as dependências:
